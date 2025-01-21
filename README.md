@@ -1,0 +1,1 @@
+Udemy clone is an online learning platform inspired by Udemy's business model. This clone solution offers online courses on various subjects such as programming, AI, data science, marketing, etc. It enables tutors to create, publish, and sell courses to a wide audience.
